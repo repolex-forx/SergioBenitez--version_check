@@ -1,0 +1,11 @@
+{
+  "org": "SergioBenitez",
+  "repo": "version_check",
+  "versions": [
+    {
+      "commit": "d77ef9f27cc336719b2d839d09ee6635dd22f758",
+      "tag": "v0.9.5",
+      "parsed_at": "2026-11-21T23:23:47.646233+00:00"
+    }
+  ]
+}
